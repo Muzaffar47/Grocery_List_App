@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "309331909011",
+    "firebase_url": "https://groceryreminder-default-rtdb.firebaseio.com",
+    "project_id": "groceryreminder",
+    "storage_bucket": "groceryreminder.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309331909011:android:b4cfaef64803e81619b066",
+        "android_client_info": {
+          "package_name": "com.example.grocery_reminder_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIoMkwugwAyw2XWEup_qFFdW7dFPeC6MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
